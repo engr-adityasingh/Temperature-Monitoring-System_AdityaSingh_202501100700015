@@ -1,6 +1,6 @@
 # Temperature-Monitoring-System_AdityaSingh_202501100700015
 
-#Problem Statement
+# Problem Statement
 - Build a Python program to simulate an IoT system that monitors temperature.
 - Accept minimum and maximum temperature limits from the user.
 - Generate random temperature values at 2-second intervals to mimic sensor readings.
@@ -9,7 +9,7 @@
 - Above maximum limit → Warning 🔥
 - Within safe range → Normal ✅
 
-#Approach
+# Approach
 - Input Handling:
 - Prompt the user to enter minimum and maximum temperature limits.
 - Random Simulation:
@@ -23,7 +23,7 @@
 - Use an infinite loop (while True) to continuously generate readings.
 - Add a time.sleep(2) delay to simulate real-time monitoring.
 
-#Sample Output
+# Sample Output
  
 Enter minimum temperature limit: 20
 
