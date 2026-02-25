@@ -1,6 +1,6 @@
 # Temperature-Monitoring-System_AdityaSingh_202501100700015
 
-**- Problem Statement**
+**Problem Statement**
 
 • 	Build a Python program to simulate an IoT system that monitors temperature.
 • 	Accept minimum and maximum temperature limits from the user.
@@ -11,7 +11,7 @@
 • 	Within safe range → Normal ✅
 
 
-**- Approach**
+**Approach**
 
 1. 	Input Handling:
 • 	Prompt the user to enter minimum and maximum temperature limits.
@@ -27,7 +27,7 @@
 • 	Add a  delay to simulate real-time monitoring.
 
 
-**- Sample Output**
+**Sample Output**
 
 Enter minimum temperature limit: 20
 
