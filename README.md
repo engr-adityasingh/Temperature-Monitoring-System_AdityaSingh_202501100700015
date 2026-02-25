@@ -23,7 +23,7 @@
 - Use an infinite loop (while True) to continuously generate readings.
 - Add a time.sleep(2) delay to simulate real-time monitoring.
 
- Sample Output
+ Sample Output 
 Enter minimum temperature limit: 20
 Enter maximum temperature limit: 30
 
