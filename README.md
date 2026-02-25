@@ -6,9 +6,9 @@
 • 	Accept minimum and maximum temperature limits from the user.
 • 	Generate random temperature values at 2-second intervals to mimic sensor readings.
 • 	Compare each reading with the limits and display appropriate messages:
-• 	Below minimum limit → Warning ❄️
-• 	Above maximum limit → Warning 🔥
-• 	Within safe range → Normal ✅
+• 	Below minimum limit → Warning
+• 	Above maximum limit → Warning
+• 	Within safe range → Normal
 
 
 **Approach**
