@@ -24,13 +24,17 @@
 - Add a time.sleep(2) delay to simulate real-time monitoring.
 
  Sample Output 
+ 
 Enter minimum temperature limit: 20
+
 Enter maximum temperature limit: 30
 
 --- Temperature Monitoring Started ---
 
 Temperature: 18°C → BELOW minimum limit! 
+
 Temperature: 25°C → Within safe range 
+
 Temperature: 33°C → ABOVE maximum limit! 
 Temperature: 22°C → Within safe range 
 Temperature: 19°C → BELOW minimum limit! 
