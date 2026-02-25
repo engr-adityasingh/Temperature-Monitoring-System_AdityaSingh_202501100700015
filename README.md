@@ -36,5 +36,7 @@ Temperature: 18°C → BELOW minimum limit!
 Temperature: 25°C → Within safe range 
 
 Temperature: 33°C → ABOVE maximum limit! 
+
 Temperature: 22°C → Within safe range 
+
 Temperature: 19°C → BELOW minimum limit! 
